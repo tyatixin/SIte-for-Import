@@ -1,8 +1,8 @@
 # Игнорировать папки
 tmp/
 ## Игнорировать суффиксы
-_old
-_backup
+*_old
+*_backup
 ### Игнорировать файлы
 Thumbs.db
-.DS_Store.
+DS_Store
